@@ -1,0 +1,10 @@
+*.fastq
+*.fasta
+model_logs/
+model_output/
+lightning_logs/
+logs/
+references/
+save/
+trained_models/
+.venv/

@@ -1,0 +1,5 @@
+biopython
+scikit-learn
+biogl
+nvidia-cudnn-cu11==8.6.0.163
+tensorflow==2.13.*
